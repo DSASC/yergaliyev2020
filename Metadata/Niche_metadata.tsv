@@ -1,0 +1,5 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	Niche	Date	Location	Treatment	TP	TimePoint	Group_Treat	Group_TP
+Root	AA	TT	Root	25/2/18	A27_R	Infected	4_tp	4	R	R_4
+Gall	AA	TT	Gall	25/2/18	C49_G	Infected	4_tp	4	G	G_4
+Soil	AA	TT	Soil	20/12/17	A1_S	Infected	1_tp	1	S	S_1
+J2	AA	TT	J2	22/5/18	B35_J2	Infected	6_tp	6	J	J_6
