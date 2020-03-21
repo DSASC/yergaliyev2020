@@ -1,0 +1,79 @@
+organism	mol_type	strain	culture_collection	type_material	db_xref	note	isolation_source	country	collection_date	isolate	collected_by	identified_by	host	PCR_primers	lat_lon	clone	environmental_sample	submitter_seqid	pooled_isolation_source
+Devosia riboflavina	genomic DNA	NBRC 13584	NBRC:13584	type strain of Devosia riboflavina	NBRC:13584	Type strain of Devosia riboflavina													
+Devosia neptuniae	genomic DNA	J1			taxon:191302	type strain													
+Devosia hwasunensis	genomic DNA	type strain:HST2-16			taxon:399498														
+Devosia sp. I507	genomic DNA	I507			taxon:2083786		pit mud	Indian Ocean	15-Jun-2016										decomposition
+Devosia sp. PIC-C22	genomic DNA				taxon:351558			China		PIC-C22									
+Devosia albogilva	genomic DNA	IPL15		type strain of Devosia albogilva	taxon:429726	type strain of Devosia albogilva													
+Devosia geojensis	genomic DNA	BD-c194		type strain of Devosia geojensis	taxon:443610	type strain of Devosia geojensis													
+Devosia sp. YR412	genomic DNA	YR412			taxon:1881030	contig: Ga0115460_103													
+Devosia sp. R-36938	genomic DNA	R-36938			taxon:885450			Antarctica:Transantarctic Mountains, Forlidas Pond											
+Devosia enhydra	genomic DNA	9b		type strain of Devosia enhydra	taxon:665118														
+Devosia sp. TPD03	genomic DNA	TPD03			taxon:862380		permafrost at the head waters of the Urumqi River	China: Tianshan Mountains											water
+Devosia sp. DK1	genomic DNA	DK1			taxon:1050057			Russia: Shira Lake, Khakasia, southern Siberia	14-Jul-2010		Hsiu-Hui Chiu & Denis Rogozin	Hsiu-Hui Chiu							
+Devosia sp. Czb2	genomic DNA	Czb2			taxon:1327234		root	China: Tianshan Mountains					Polygonum viviparum L.						root
+Devosia nanyangense	genomic DNA	DDB001			taxon:1228055		wheat field soil	China: Nanyang, Henan											soil
+Devosia sp. M38	genomic DNA	M38	CCTCC:AB MHYL38		taxon:1294562		natural Euphrates poplar forest rhizosphere	China: Xinjiang						fwd_name: 27f, fwd_seq: gagtttgatcctggctcag, rev_name: 1540r, rev_seq: agaaaggaggtgatccagcc					rhizosphere
+Devosia riboflavina	genomic DNA	WX69			taxon:46914		ginger foundation soil												soil
+Devosia sp. HP3Z	genomic DNA	HP3Z			taxon:1556494		amphibian	USA	2012		J. Walke	J. Walke	Pseudacris crucifer						animal host
+Devosia elaeis	genomic DNA	S37		type strain of Devosia elaeis	taxon:1770058		soil		07-Jan-2015										soil
+Devosia sp. JCM 28299	genomic DNA				taxon:1818719	T7528-3-1b	Between east wall 1 and ceiling stone 2 (during relocation of the stone chamber) of the Takamatsuzuka Tumulus			JCM 28299									cave, stone, coal
+Devosia psychrophila	genomic DNA	HMF7868			taxon:728005		tree												plant
+Devosia enhydra	genomic DNA	NBRC 102409	NBRC:102409	type strain of Devosia enhydra	NBRC:102409	Type strain of Prosthecomicrobium enhydrum													
+Devosia riboflavina	genomic DNA	type strain: DSM 7230		type strain of Devosia riboflavina	taxon:46914														
+Devosia sp. P-37	genomic DNA	P-37			taxon:413353	late successional species-level cluster 7 (LS_SLC_7)	oxic zone of 70-day-old flooded (unplanted) rice paddy soil microcosm												soil
+Devosia sp. A16	genomic DNA	A16			taxon:1736675		Wheat field	China: Nanjing	2010-10										other
+Devosia soli	genomic DNA	GH2-10		type strain of Devosia soli	taxon:361041	type strain of Devosia soli	greenhouse soil												soil
+Devosia crocina	genomic DNA	IPL20		type strain of Devosia crocina	taxon:429728	type strain of Devosia crocina													
+Devosia sp. 52	genomic DNA	52			taxon:571180		silvan soil	China: Jiangsu											soil
+Devosia sp. R-36756	genomic DNA	R-36756			taxon:885451			Antarctica:Transantarctic Mountains, Forlidas Pond											
+Devosia psychrophila	genomic DNA	Cr7-05		type strain of Devosia psychrophila	taxon:728005	type strain of Devosia psychrophila													
+Devosia glacialis	genomic DNA	Cr4-44		type strain of Devosia glacialis	taxon:866566	type strain of Devosia glacialis	alpine glacier cryoconite	Austria: Tyrol, Oetztaler Alps, Pitztaler Joechl glacier											other
+Devosia sp. Emb19	genomic DNA	Emb19			taxon:1327236		root	China: Tianshan Mountains					Pedicularis sp.						root
+Devosia sp. Axs16	genomic DNA	Axs16			taxon:1327230		rizosphere soil	China: Tianshan Mountains					Cancrinia discoidea (Ledeb.) Poljak.						soil
+Devosia chinhatensis	genomic DNA	CH1-29			taxon:429727			South Korea					Pleurotus ostreatus						
+Devosia sp. M30	genomic DNA	M30	CCTCC:AB MHYL30		taxon:1294560		natural Euphrates poplar forest rhizosphere	China: Xinjiang						fwd_name: 27f, fwd_seq: gagtttgatcctggctcag, rev_name: 1540r, rev_seq: agaaaggaggtgatccagcc					rhizosphere
+Devosia pacifica	genomic DNA	NH131		type strain of Devosia pacifica	taxon:1335967		South China Sea							fwd_name: 27f, fwd_seq: gagagtttgatcctggctcag, rev_name: 1492r, rev_seq: gtcgtaacaaggtagccgta					water
+Devosia humi	genomic DNA	THG-MM1		type strain of Devosia humi	taxon:1591105		soil	South Korea	22-Aug-2014		S. Akter								soil
+Devosia confluentis	genomic DNA	HJR-2		type strain of Devosia confluentis	taxon:1849014		water from junction between the ocean and a freshwater lake	South Korea											water
+Devosia sp. Po15d	genomic DNA	Po15d			taxon:1632692		Soil												soil
+Devosia sp.	genomic DNA	1566			taxon:1871048														
+Devosia yakushimensis	genomic DNA	Yak96B		type strain of Devosia yakushimensis	taxon:470028	type strain of Devosia yakushimensis	root nodule of kudzu plant	Japan: Kagoshima Prefecture, Yakushima Island	01-Dec-2006		Vernans V. Bautista	Vernans V. Bautista	Pueraria lobata						nodule
+Devosia submarina	genomic DNA	Sl74		type strain of Devosia submarina	taxon:1173082	strain coidentity: KMM 9415; type strain of Devosia submarina	deep-sea surface sediment	Russia:The Sea of Japan											water
+Devosia subaequoris	genomic DNA	type strain: HST3-14		type strain of Devosia subaequoris	taxon:395930														
+Devosia sp. H5989	genomic DNA	H5989			taxon:1643450		CSF	USA	2011-12-23				Homo sapiens						other
+Devosia riboflavina	genomic DNA	IFO 13584		type strain of Devosia riboflavina	taxon:46914														
+Devosia terrae	genomic DNA	DCY11			taxon:413432	type strain of Devosia terrae													
+Devosia sp. G-He10	genomic DNA	G-He10			taxon:442972														
+Devosia sp. R-36585	genomic DNA	R-36585			taxon:875248		soil sample BB115	Antarctica:Utsteinen, Sor Rondane Mts, Dronning Maud Land											soil
+Devosia sp. R-43964	genomic DNA	R-43964			taxon:885453			Antarctica:Transantarctic Mountains, Lundstrom Lake											
+Devosia lucknowensis	genomic DNA	L15		type strain of Devosia lucknowensis	taxon:1096929	contig: Ga0138907_13													
+Devosia sp. TP-Snow-C41	genomic DNA	TP-Snow-C41			taxon:913788		snow	China: Tibetan Plateau						fwd_name: 27F, fwd_seq: agagtttgatcctggctcag, rev_name: 1492R, rev_seq: ggttaccttgttacgactt					other
+Devosia sp. Bzb6	genomic DNA	Bzb6			taxon:1327233		root	China: Tianshan Mountains					Polygonum viviparum L.						root
+Devosia sp. Emb15	genomic DNA	Emb15			taxon:1327235		root	China: Tianshan Mountains					Pedicularis sp.						root
+Devosia epidermidihirudinis	genomic DNA	E84T		type strain of Devosia epidermidihirudinis	taxon:1293439		skin						Hirudo verbana						skin
+Devosia geojensis	genomic DNA	WY13			taxon:443610		ginger foundation soil												soil
+Devosia chinhatensis	genomic DNA	HA 559			taxon:429727		gut	India	10-Dec-2013		Subramanian S and Sharda Singh		Helicoverpa armigera		28.0800 N 77.1200 E				gut
+Devosia albogilva	genomic DNA	UAC23D			taxon:429726		hot spring												water
+Devosia sp.	genomic DNA	A917			taxon:1871048		soil												soil
+Devosia sp.	genomic DNA	25_AG1152_2			taxon:1871048		inner surface of termite's tapetum	Namibia: Namib Desert fairy circles											animal host
+Devosia sp.	genomic DNA	Alpha-22			taxon:1871048		soil	South Korea											soil
+Devosia yakushimensis	genomic DNA	NBRC 103855	NBRC:103855	type strain of Devosia yakushimensis	NBRC:103855	Type strain of Devosia yakushimensis													
+Devosia limi	genomic DNA	type strain: R-21940 = LMG 22951		type strain of Devosia limi	taxon:288995		commercial nitrifying inoculum	Belgium											other
+Devosia riboflavina	genomic DNA				taxon:46914														
+Devosia insulae DS-56	genomic DNA	DS-56		type strain of Devosia insulae	taxon:1116389	type strain of Devosia insulae													
+Devosia chinhatensis	genomic DNA	IPL18		type strain of Devosia chinhatensis	taxon:429727	type strain of Devosia chinhatensis													
+Devosia mishustinii	genomic DNA	17		type strain of Devosia mishustinii	taxon:616951		soil												soil
+Devosia sp. R-43424	genomic DNA	R-43424			taxon:885452			Antarctica:Transantarctic Mountains, Forlidas Pond											
+Devosia sp. BF65B_I1	genomic DNA	BF65B_I1			taxon:859043		supraglacial spring outflow	Canada: Borup Fiord, Ellesmere Island, Nunavut											water
+Devosia sp. enrichment culture clone ANA-RAS-27	genomic DNA				taxon:871553	PCR_primers=fwd_name: 27f, rev_name: 1492r	returned activated sludge	USA: Tucson, Arizona								ANA-RAS-27			decomposition
+Devosia sp. Es32	genomic DNA	Es32			taxon:1327239		rizosphere soil	China: Tianshan Mountains					Saxifraga stolonifera Curt.						soil
+Devosia sp. Bma11	genomic DNA	Bma11			taxon:1327232		rhizoplane	China: Tianshan Mountains					Pedicularis sp.						rhizosphere
+Devosia glacialis	genomic DNA	CH1-30			taxon:866566			South Korea					Pleurotus ostreatus						
+Devosia neptuniae	genomic DNA	WF30			taxon:191302		ginger foundation soil												soil
+Devosia chinhatensis	genomic DNA	HA 555			taxon:429727		gut	India	10-Dec-2013		Subramanian S and Sharda Singh		Helicoverpa armigera		28.0800 N 77.1200 E				gut
+Devosia honganensis	genomic DNA	NSL10		type strain of Devosia honganensis	taxon:1610527		soil												soil
+Devosia ginsengisoli	genomic DNA	Gsoil 520		type strain of Devosia ginsengisoli	taxon:400770		soil of ginseng field	South Korea				Wan-Taek Im							soil
+Devosia sp. Root635	genomic DNA	Root635			taxon:1736575		root	Germany: Cologne	2013				Arabidopsis thaliana		50.958 N 6.856 E			contig_10	root
+Devosia sp.	genomic DNA	10_AG513_1			taxon:1871048		inner surface of termite's tapetum	Namibia: Namib Desert fairy circles											animal host
+Devosia sp.	genomic DNA	M6-77			taxon:1871048		horse blood												animal host

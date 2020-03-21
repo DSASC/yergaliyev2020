@@ -1,0 +1,317 @@
+organism	mol_type	isolation_source	db_xref	clone	environmental_sample	country	isolate	PCR_primers	collection_date	collected_by	note	host	clone_lib	lat_lon	identified_by	pooled_isolation_source
+uncultured bacterium	genomic DNA	biological soil disinfestation with Brassica juncea-treatment	taxon:77133	YCB-77		Japan:Yamaguchi										soil
+uncultured methanotrophic bacterium	genomic DNA	cover soil from landfill site	taxon:288814	FH2-7												soil
+uncultured proteobacterium	genomic DNA	trembling aspen rhizosphere under ambient CO2 conditions	taxon:153809	Amb_16S_1323												rhizosphere
+uncultured Bradyrhizobiaceae bacterium	genomic DNA	infiltrative surface biozone	taxon:181009	MP9A73												other
+uncultured Alphaproteobacteria bacterium	genomic DNA	waste deposit (WD)	taxon:91750	79 WD45		Brazil: Minas Gerais State, steel plant										decomposition
+uncultured bacterium	genomic DNA	Dem reservoir	taxon:77133	20bk40		Burkina Faso										water
+uncultured bacterium	genomic DNA	boreal pine forest soil	taxon:77133	14												soil
+uncultured bacterium	genomic DNA	boreal pine forest soil	taxon:77133	55												soil
+uncultured bacterium	genomic DNA	Nyack hyporheic sediments	taxon:77133	T08.018												sediment
+uncultured bacterium	genomic DNA	simulated low level waste site	taxon:77133	F1_86X		USA: Idaho National Labs										decomposition
+uncultured bacterium	genomic DNA	simulated low level waste site	taxon:77133	F2_172X		USA: Idaho National Labs										decomposition
+uncultured bacterium	genomic DNA	simulated low level waste site	taxon:77133	F3_112X		USA: Idaho National Labs										decomposition
+uncultured bacterium	genomic DNA	simulated low level waste site	taxon:77133	FW1_b50		USA: Idaho National Labs										decomposition
+uncultured bacterium	genomic DNA	simulated low level waste site	taxon:77133	WC2_46		USA: Idaho National Labs										decomposition
+uncultured bacterium	genomic DNA	acidic forest soil	taxon:77133	31C8												soil
+uncultured bacterium	genomic DNA	pine forest soil	taxon:77133	Bacteria_Clone_370												soil
+uncultured bacterium	genomic DNA	microbial fuel cell anode	taxon:77133				DGGE gel band HRB2									other
+uncultured bacterium	genomic DNA	biologically activated carbon for drinking water treatment	taxon:77133	J22												water
+uncultured bacterium	genomic DNA	extreme saline-alkaline soil of the former lake Texcoco	taxon:77133	TX2_2M10												soil
+uncultured bacterium	genomic DNA	soil	taxon:77133	H-Con-D4-Org_213010												soil
+uncultured bacterium	genomic DNA	FACE soil sample	taxon:77133	TA4a05c4_6350												soil
+uncultured bacterium	genomic DNA	FACE soil sample	taxon:77133	WAm1e6_6521												soil
+uncultured bacterium	genomic DNA	FACE soil sample	taxon:77133	W023f1_6525												soil
+uncultured bacterium	genomic DNA	soil	taxon:77133	AN1C1CA10												soil
+uncultured bacterium	genomic DNA	soil	taxon:77133	AN14C1BD09												soil
+uncultured bacterium	genomic DNA	soil	taxon:77133	AN1C2AG11												soil
+uncultured bacterium	genomic DNA	soil from Tet watersheds	taxon:77133	4783384				fwd_name: 27f, fwd_seq: agagtttgatcmtggctcag, rev_name: 1492r, rev_seq: ggttaccttgttacgactt								soil
+uncultured Rhodoplanes sp.	genomic DNA	water from long-term experimental oligotrophic mesocosms in Cuatro Cienegas	taxon:211454	40C_2_14		Mexico		fwd_name: 27f, fwd_seq: agagtttgatcctggctcag, rev_name: 1492r, rev_seq: ggttaccttgttacgactt								water
+uncultured proteobacterium	genomic DNA	river sediment	taxon:153809	S6_16S_15		Canada: Quebec		fwd_name: 27F, fwd_seq: agagtttgatcmtggctcag, rev_name: 907R, rev_seq: ccgtcaattcmtttragttt	Aug-2011	H.S. Gill						water
+uncultured bacterium	genomic DNA	Lyons Cave (tan)	taxon:77133	L9::G9RA0RH03F06W5												cave, stone, coal
+uncultured bacterium	genomic DNA	Hopkins Chocolate Cave (tan)	taxon:77133	HC6::G9RA0RH03G6D3K												cave, stone, coal
+uncultured bacterium	genomic DNA	Golden Dome Cave (white)	taxon:77133	GD3::G9RA0RH03GZYFK												cave, stone, coal
+uncultured bacterium	genomic DNA	rhizosphere soil of Mollinedia schottiana	taxon:77133	RhiMs0112		Brazil: Carlos Botelho State Park, Sao Paulo.		fwd_name: BAC63F, fwd_seq: caggcctaacacatgcaagtc, rev_name: UN518R, rev_seq: attaccgcggctgctgg								soil
+uncultured bacterium	genomic DNA	sludge with earthworm	taxon:77133	H7YL1YN01C3GA1												decomposition
+uncultured bacterium	genomic DNA	earthworm cast and soil	taxon:77133	IJ1ZXBL01DJ3FB												soil
+uncultured bacterium	genomic DNA	earthworm cast and soil	taxon:77133	IJ1ZXBL01B6GE8												soil
+uncultured bacterium	genomic DNA	earthworm cast and soil	taxon:77133	IJ1ZXBL01B7ENM												soil
+uncultured bacterium	genomic DNA	earthworm cast and soil	taxon:77133	IJ1ZXBL01DT77E												soil
+uncultured bacterium	genomic DNA	earthworm cast and soil	taxon:77133	IJ1ZXBL01BLOE6												soil
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01CE7C3												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01AVLVA												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01CZJRB												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01AM0P5												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	II960TT01BL09J												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01DRZGJ												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01BXWWA												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01ASVWS												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	II960TT01A8X3P												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	II960TT01A9WXS												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01BDR3Y												animal host
+uncultured Alphaproteobacteria bacterium	genomic DNA		taxon:91750	C46.42PG							from lodgepole pine rhizosphere soil from the British Columbia Ministry of Forests Long-Term Soil Productivity (LTSP) installation near Prince George, BC, Canada					
+uncultured bacterium	genomic DNA	desert sand dunes	taxon:77133	47		Morocco										soil
+uncultured bacterium	genomic DNA	freshwater wetland soils, including Florida everglades, and North Caroline pocosin bogs, riverine and non-riverine swamps	taxon:77133	D6C_103												soil
+uncultured Alphaproteobacteria bacterium	genomic DNA	waste deposit (WD)	taxon:91750	28 WD45		Brazil: Minas Gerais State, steel plant										decomposition
+uncultured bacterium	genomic DNA	laboratory litter decomposition microcosom	taxon:77133	SC_D09												decomposition
+uncultured bacterium	genomic DNA		taxon:77133	Bul1ah07		Kenya						Bulinus africanus				
+uncultured bacterium	genomic DNA	boreal pine forest soil	taxon:77133	72												soil
+uncultured bacterium	genomic DNA	soil with pH ranging 6.04-6.26	taxon:77133	Medium_pH_soil_bacterial_16S_clone_264		United Kingdom		fwd_name: 63F, fwd_seq: caggcctaacacatgcaagtc, rev_name: 519R, rev_seq: gtattaccgcggctgctg								soil
+uncultured bacterium	genomic DNA	Nyack hyporheic sediments	taxon:77133	T10.246												sediment
+uncultured bacterium	genomic DNA	simulated low level waste site	taxon:77133	F2_109X		USA: Idaho National Labs										decomposition
+uncultured bacterium	genomic DNA	simulated low level waste site	taxon:77133	F2_176X		USA: Idaho National Labs										decomposition
+uncultured bacterium	genomic DNA	industrial wastewater-treating biofilms	taxon:77133	N33												water
+uncultured bacterium	genomic DNA	simulated low level waste site	taxon:77133	F3_121X		USA: Idaho National Labs										decomposition
+uncultured Alphaproteobacteria bacterium	genomic DNA	uranium mill tailings	taxon:91750	Gitt-KF-194		Germany:Saxony, Gittersee/Coschuetz							16S rDNA (43F-1404R)			other
+uncultured bacterium	genomic DNA	control background site close to petroleum aquifer	taxon:77133	9S3		USA										other
+uncultured bacterium	genomic DNA	soil	taxon:77133	CZ50F04							derived carbon from biphenyl in stable isotope probing study					soil
+uncultured Alphaproteobacteria bacterium	genomic DNA	waste deposit (WD)	taxon:91750	80 WD45		Brazil: Minas Gerais State, steel plant										decomposition
+uncultured bacterium	genomic DNA	alkaline saline soils of the former lake Texcoco	taxon:77133	TX5A_64		Mexico										soil
+uncultured bacterium	genomic DNA	paddy soil	taxon:77133	ISA00803		China										soil
+uncultured bacterium	genomic DNA	simulated low level waste site	taxon:77133	FW2_20B		USA: Idaho National Labs										decomposition
+uncultured bacterium	genomic DNA	boreal pine forest soil	taxon:77133	78												soil
+uncultured bacterium	genomic DNA	soil with pH ranging 6.04-6.26	taxon:77133	Medium_pH_soil_bacterial_16S_clone_451		United Kingdom		fwd_name: 63F, fwd_seq: caggcctaacacatgcaagtc, rev_name: 519R, rev_seq: gtattaccgcggctgctg								soil
+uncultured bacterium	genomic DNA	simulated low level waste site	taxon:77133	WC2_89		USA: Idaho National Labs										decomposition
+uncultured bacterium	genomic DNA	Nyack hyporheic sediments	taxon:77133	W11.272												sediment
+uncultured bacterium	genomic DNA	halo-alkaline Lake Shalla shore sediment	taxon:77133	LSH_B31		Ethiopia			Oct-2008				LSH_B	7.47 N 39.33 E		water
+uncultured bacterium	genomic DNA	simulated low level waste site	taxon:77133	F2_141X		USA: Idaho National Labs										decomposition
+uncultured bacterium	genomic DNA	municipal activated sludge wastewater treatment bioreactor	taxon:77133	Pohang_WWTP_August.2005_5476												water
+uncultured bacterium	genomic DNA	simulated low level waste site	taxon:77133	F2_23X		USA: Idaho National Labs										decomposition
+uncultured bacterium	genomic DNA	biologically activated carbon for drinking water treatment	taxon:77133	J67												water
+uncultured bacterium	genomic DNA	simulated low level waste site	taxon:77133	F3_126X		USA: Idaho National Labs										decomposition
+uncultured bacterium	genomic DNA	extreme saline-alkaline soil of the former lake Texcoco	taxon:77133	TX2_6J22												soil
+uncultured bacterium	genomic DNA	simulated low level waste site	taxon:77133	WC2_08		USA: Idaho National Labs										decomposition
+uncultured bacterium	genomic DNA	soil	taxon:77133	H-Con-A5-Org_230022												soil
+uncultured bacterium	genomic DNA	simulated low level waste site	taxon:77133	WW2_116		USA: Idaho National Labs										decomposition
+uncultured bacterium	genomic DNA	FACE soil sample	taxon:77133	NTS003FastKTS109044urunk00a10_6364												soil
+uncultured Rhizobiales bacterium	genomic DNA	host root system	taxon:208549				DGGE band ET_R01					Vitis vinifera				root
+uncultured bacterium	genomic DNA	FACE soil sample	taxon:77133	NC1F2b12_17711												soil
+bacterium	genomic DNA	soil environments under Empetrum rubrum at the Falkland Islands, control plot C06	taxon:1869227	GB7N87001AOIHB		Falkland Islands (Islas Malvinas)		fwd_seq: gagtttgatymtggctc, rev_seq: attaccgcggctgctggc	01-Oct-2006					52.27 S 59.05 W		soil
+uncultured bacterium	genomic DNA	FACE soil sample	taxon:77133	WAm1b12_3897												soil
+uncultured bacterium	genomic DNA	biologically activated carbon for drinking water treatment	taxon:77133	J6												water
+uncultured bacterium	genomic DNA	soil	taxon:77133	CT14C1CA03												soil
+uncultured bacterium	genomic DNA	cropland soil	taxon:77133	shz103		China										soil
+uncultured bacterium	genomic DNA	soil	taxon:77133	AC14C2AA02												soil
+uncultured bacterium	genomic DNA	soil	taxon:77133	1737		China										soil
+uncultured bacterium	genomic DNA	soda lake sediment	taxon:77133	T2SED_P2D1												sediment
+uncultured bacterium	genomic DNA	FACE soil sample	taxon:77133	WIR21Fastg7_6524												soil
+uncultured Methylosinus sp.	genomic DNA	water from long-term experimental oligotrophic mesocosms in Cuatro Cienegas	taxon:332354	UVmen1_18		Mexico		fwd_name: 27f, fwd_seq: agagtttgatcctggctcag, rev_name: 1492r, rev_seq: ggttaccttgttacgactt								water
+uncultured bacterium	genomic DNA	FACE soil sample	taxon:77133	NC6F2h7_13921												soil
+uncultured Rhodoplanes sp.	genomic DNA	water from long-term experimental oligotrophic mesocosms in Cuatro Cienegas	taxon:211454	40C_2_23		Mexico		fwd_name: 27f, fwd_seq: agagtttgatcctggctcag, rev_name: 1492r, rev_seq: ggttaccttgttacgactt								water
+uncultured methanotrophic bacterium	genomic DNA	soil	taxon:288814	7				fwd_name: 533f, fwd_seq: gtgccagcagccgcggtaa, rev_name: Am976, rev_seq: gtcaaaagctggtaaggttc								soil
+uncultured proteobacterium	genomic DNA	river sediment	taxon:153809	S6_16S_35		Canada: Quebec		fwd_name: 27F, fwd_seq: agagtttgatcmtggctcag, rev_name: 907R, rev_seq: ccgtcaattcmtttragttt	Aug-2011	H.S. Gill						water
+uncultured bacterium	genomic DNA	soil	taxon:77133	AC14C1CG12												soil
+uncultured bacterium	genomic DNA	Lyons Cave (tan)	taxon:77133	L9::G9RA0RH03HCPOS												cave, stone, coal
+uncultured bacterium	genomic DNA	soil	taxon:77133	AC14C2BD04												soil
+uncultured bacterium	genomic DNA	Hopkins Chocolate Cave (tan)	taxon:77133	HC6::G9RA0RH03GOA7Q												cave, stone, coal
+uncultured bacterium	genomic DNA	acidic peatland, 20cm depth	taxon:77133	GB4XUSJ08JD7XY		Brazil: Forest Atlantic, Parana, Third Plateau							PA20	26.34 S 51.41 W		decomposition
+uncultured bacterium	genomic DNA	Hopkins Chocolate Cave (yellow)	taxon:77133	HC1::G9RA0RH03G877W												cave, stone, coal
+uncultured Methylobacteriaceae bacterium	genomic DNA	biocathode	taxon:238199	D-05Biofilm056												other
+uncultured Methylosinus sp.	genomic DNA	water from long-term experimental oligotrophic mesocosms in Cuatro Cienegas	taxon:332354	UVmen1_10		Mexico		fwd_name: 27f, fwd_seq: agagtttgatcctggctcag, rev_name: 1492r, rev_seq: ggttaccttgttacgactt								water
+uncultured bacterium	genomic DNA	earthworm compost	taxon:77133	H7YL1YN01C77KZ												decomposition
+uncultured Rhodoplanes sp.	genomic DNA	water from long-term experimental oligotrophic mesocosms in Cuatro Cienegas	taxon:211454	40C_2_30		Mexico		fwd_name: 27f, fwd_seq: agagtttgatcctggctcag, rev_name: 1492r, rev_seq: ggttaccttgttacgactt								water
+uncultured Rhizobiales bacterium	genomic DNA	soil	taxon:208549	SDn1-82												soil
+uncultured bacterium	genomic DNA	Lyons Cave (tan)	taxon:77133	L9::G9RA0RH03FJB4W												cave, stone, coal
+uncultured bacterium	genomic DNA	Hopkins Chocolate Cave (tan)	taxon:77133	HC6::G9RA0RH03GZLGT												cave, stone, coal
+uncultured bacterium	genomic DNA	Hopkins Chocolate Cave (yellow)	taxon:77133	HC1::G9RA0RH03FLYUG												cave, stone, coal
+uncultured bacterium	genomic DNA	biochemical reactor 20-30cm core	taxon:77133	504_TC3_36												other
+uncultured bacterium	genomic DNA	earthworm cast and soil	taxon:77133	IJ1ZXBL01AXBCI												soil
+uncultured bacterium	genomic DNA	gut	taxon:77133	II960TT01BDG4E								earthworm				gut
+uncultured bacterium	genomic DNA	earthworm cast and soil	taxon:77133	IJ1ZXBL01CD19F												soil
+uncultured bacterium	genomic DNA	earthworm cast and soil	taxon:77133	IJ1ZXBL01AEDY8												soil
+uncultured bacterium	genomic DNA	earthworm cast and soil	taxon:77133	IJ1ZXBL01CURRL												soil
+uncultured bacterium	genomic DNA	earthworm cast and soil	taxon:77133	IJ1ZXBL01DS9JY												soil
+uncultured bacterium	genomic DNA	earthworm cast and soil	taxon:77133	IJ1ZXBL01B143Z												soil
+uncultured bacterium	genomic DNA	earthworm cast and soil	taxon:77133	IJ1ZXBL01C9WDT												soil
+uncultured bacterium	genomic DNA	earthworm cast and soil	taxon:77133	IJ1ZXBL01BTT9U												soil
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01DBCS3												animal host
+uncultured bacterium	genomic DNA	earthworm cast and soil	taxon:77133	IJ1ZXBL01AS210												soil
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01A8IFF												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01CUIOW												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01DNHWN												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01BKOCY												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01B1JWM												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01DG804												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	II960TT01BOWJC												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01C177S												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01CIGBX												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	II960TT01AJKD8												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01B12B1												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01DWZHD												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01CUY9Q												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01BZIWT												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	II960TT01BY6VJ												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01B26HM												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01B1MTQ												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	II960TT01AGSOL												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01CCOV8												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01DNB30												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01DA4EQ												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01CI784												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01AZW6O												animal host
+uncultured bacterium	genomic DNA	Spinach cultivated soil after the soil made anoxic	taxon:77133	CA-19		Japan:Yamaguchi										soil
+uncultured Rhizobiales bacterium	genomic DNA	artic soil from ML-RS1 site	taxon:208549	A6_100		Norway:Svalbard, Ny Alesund, Midtre Lovenbreen glacier moraine			Aug-2005	Sara Borin				78.53 N 12.05 E		soil
+uncultured bacterium	genomic DNA	control background site close to petroleum aquifer	taxon:77133	9S44		USA										other
+uncultured Alphaproteobacteria bacterium	genomic DNA	apple orchard soil	taxon:91750	G6f												soil
+uncultured Alphaproteobacteria bacterium	genomic DNA	waste deposit (WD)	taxon:91750	31 WD45		Brazil: Minas Gerais State, steel plant										decomposition
+uncultured bacterium	genomic DNA	alkaline saline soils of the former lake Texcoco	taxon:77133	TX5A_94		Mexico										soil
+uncultured Alphaproteobacteria bacterium	genomic DNA	soil early snow melt site B, Alpes	taxon:91750	A21YM19RM		France: Massif du Grand Galibier			10-Aug-2005							soil
+uncultured bacterium	genomic DNA	boreal pine forest soil	taxon:77133	35												soil
+uncultured bacterium	genomic DNA	Nyack hyporheic sediments	taxon:77133	M11.009												sediment
+uncultured bacterium	genomic DNA	simulated low level waste site	taxon:77133	F1_49X2		USA: Idaho National Labs										decomposition
+uncultured bacterium	genomic DNA	simulated low level waste site	taxon:77133	F2_14X		USA: Idaho National Labs										decomposition
+uncultured bacterium	genomic DNA	simulated low level waste site	taxon:77133	F2_40X		USA: Idaho National Labs										decomposition
+uncultured bacterium	genomic DNA	simulated low level waste site	taxon:77133	F3_22X		USA: Idaho National Labs										decomposition
+uncultured bacterium	genomic DNA	simulated low level waste site	taxon:77133	WC2_141		USA: Idaho National Labs										decomposition
+uncultured bacterium	genomic DNA	simulated low level waste site	taxon:77133	WW3_49		USA: Idaho National Labs										decomposition
+uncultured bacterium	genomic DNA	Phragmites australis rhizospheric soil	taxon:77133				MOTU 51									soil
+uncultured bacterium	genomic DNA	loamy sand collected from a field planted with tomatoes at the Be-Wise Ranch, Escondido, CA	taxon:77133			USA	1112864242133				DNA was extracted by enzymatic lysis, in which sodium dodecyl sulfate and proteinaseK were used to disrupt cell membranes					soil
+uncultured bacterium	genomic DNA	biologically activated carbon for drinking water treatment	taxon:77133	J20												water
+uncultured microorganism	genomic DNA	polluted aquifer	taxon:358574	1C21		Czech Republic										other
+uncultured Alphaproteobacteria bacterium	genomic DNA	microbialites from Alchichica alkaline lake, 14m depth	taxon:91750	Alchichica_AL52_2_1B_64		Mexico										other
+uncultured bacterium	genomic DNA	FACE soil sample	taxon:77133	TA4b515a12_6526												soil
+uncultured bacterium	genomic DNA	FACE soil sample	taxon:77133	W023b1_6523												soil
+uncultured bacterium	genomic DNA	FACE soil sample	taxon:77133	TA4c1530a10_6527												soil
+uncultured methanotrophic bacterium	genomic DNA	soil	taxon:288814	11				fwd_name: 533f, fwd_seq: gtgccagcagccgcggtaa, rev_name: Am976, rev_seq: gtcaaaagctggtaaggttc								soil
+uncultured bacterium	genomic DNA	soil	taxon:77133	AC14C1AG03												soil
+uncultured bacterium	genomic DNA	soil	taxon:77133	AC14C2BE11												soil
+uncultured bacterium	genomic DNA	permafrost soil samples from Kunlun Mountains Pass, Mt. Kunlun	taxon:77133	HWGB-43		China: Qinghai-Tibet Plateau		fwd_name: 27F, fwd_seq: agagtttgatcctggctcag, rev_name: 1492R, rev_seq: tacggttaccttgttacgactt	Sep-2009	Weigang Hu					Weigang Hu	soil
+uncultured Rhodoplanes sp.	genomic DNA	water from long-term experimental oligotrophic mesocosms in Cuatro Cienegas	taxon:211454	40C_1_24		Mexico		fwd_name: 27f, fwd_seq: agagtttgatcctggctcag, rev_name: 1492r, rev_seq: ggttaccttgttacgactt								water
+uncultured Rhodoplanes sp.	genomic DNA	water from long-term experimental oligotrophic mesocosms in Cuatro Cienegas	taxon:211454	40C_2_18		Mexico		fwd_name: 27f, fwd_seq: agagtttgatcctggctcag, rev_name: 1492r, rev_seq: ggttaccttgttacgactt								water
+uncultured bacterium	genomic DNA	oil palm rhizosphere	taxon:77133	L19		Malaysia										rhizosphere
+uncultured bacterium	genomic DNA	Lyons Cave (tan)	taxon:77133	L9::G9RA0RH03FL3GA												cave, stone, coal
+uncultured bacterium	genomic DNA	Golden Dome Cave (white)	taxon:77133	GD3::G9RA0RH03GW1QW												cave, stone, coal
+uncultured bacterium	genomic DNA	soil	taxon:77133	A4210C20												soil
+uncultured bacterium	genomic DNA	sludge with earthworm	taxon:77133	H7YL1YN01C7WPR												decomposition
+uncultured bacterium	genomic DNA	earthworm cast and soil	taxon:77133	IJ1ZXBL01BBRC6												soil
+uncultured bacterium	genomic DNA	earthworm cast and soil	taxon:77133	IJ1ZXBL01DIAHW												soil
+uncultured bacterium	genomic DNA	earthworm cast and soil	taxon:77133	IJ1ZXBL01CU9YY												soil
+uncultured bacterium	genomic DNA	earthworm cast and soil	taxon:77133	IJ1ZXBL01BCZAM												soil
+uncultured bacterium	genomic DNA	earthworm cast and soil	taxon:77133	IJ1ZXBL01BMSJY												soil
+uncultured bacterium	genomic DNA	earthworm cast and soil	taxon:77133	IJ1ZXBL01CU12O												soil
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01DJG17												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01DL6G7												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01C8MUO												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01BW9YN												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01DG6BV												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01AOZTZ												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	II960TT01DOM76												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	II960TT01A005J												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01CLDSS												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01CRK9Q												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	II960TT01A4KN4												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01AJRSJ												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01DI5KB												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01DK7DC												animal host
+uncultured bacterium	genomic DNA	Hyperalkaline springs of Voltri massif	taxon:77133	B4438991_GOR34		Italy										water
+uncultured bacterium	genomic DNA	brassica rapa rhizosphere	taxon:77133	brassicarhizosphere2_4453												rhizosphere
+uncultured bacterium	genomic DNA	biofilm in a BES with polarity reversion	taxon:77133	MISEQ01_89_000000000-A647M_1_1107_5398_11172												other
+uncultured bacterium	genomic DNA	biofilm in a BES with polarity reversion	taxon:77133	MISEQ01_89_000000000-A647M_1_1114_10067_5677												other
+uncultured bacterium	genomic DNA	biofilm in a BES with polarity reversion	taxon:77133	MISEQ01_89_000000000-A647M_1_1119_11643_11089												other
+uncultured bacterium	genomic DNA	cathodic biofilm in a bioelectrochemical system	taxon:77133	MISEQ01_89_000000000-A647M_1_2101_11660_19805												plant
+uncultured bacterium	genomic DNA	cathodic biofilm in a bioelectrochemical system	taxon:77133	MISEQ01_89_000000000-A647M_1_1118_1940_13858												plant
+uncultured bacterium	genomic DNA	cathodic biofilm in a bioelectrochemical system	taxon:77133	MISEQ01_89_000000000-A647M_1_1108_6588_9653												plant
+uncultured bacterium	genomic DNA	cathodic biofilm in a bioelectrochemical system	taxon:77133	MISEQ01_89_000000000-A647M_1_1108_6555_4562												plant
+uncultured bacterium	genomic DNA	cathodic biofilm in a bioelectrochemical system	taxon:77133	MISEQ01_89_000000000-A647M_1_2104_12693_20787												plant
+uncultured bacterium	genomic DNA	intestinal flora	taxon:77133	IZ1RPV404EQ4TE		Thailand			Sep-2014			Penaeus monodon				gut
+uncultured bacterium	genomic DNA	rhizosphere soil	taxon:77133	OTU7662		China			Sep-2014							soil
+uncultured bacterium	genomic DNA	soil	taxon:77133	2.3G_8141		China			Aug-2013	Guixiang li				30.9581 N 115.4258 E		soil
+uncultured bacterium	genomic DNA	anaerobic full-scale reactors	taxon:77133	OTU_6981		Luxembourg			Jul-2014							anaerobic reactor
+uncultured organism	genomic DNA	Bulk soil	taxon:155900	5346		Peru			02-Dec-2012							soil
+uncultured bacterium	genomic DNA	rhizoshere soil	taxon:77133	16S(V3-V4)-7101												soil
+uncultured bacterium	genomic DNA	Acid Mine Drainage contaminated sediments	taxon:77133	Bact_IS_OTU1444		USA: Iron Springs Mining District, CO										cave, stone, coal
+uncultured bacterium	genomic DNA	Sludge from a labscale UASB or CSTR	taxon:77133	D291		Japan:Miyagi, Sendai		fwd_name: 341 F, fwd_seq: cctaygggrbgcascag, rev_name: 806 R, rev_seq: ggactachvgggthtctaak	2015/2016							other
+uncultured bacterium	genomic DNA	refuse dump Nest 9 layer 0	taxon:77133	SIHA769_N9D0_16S_B		Panama:Gamboa, Pipeline Road		fwd_name: 27F, fwd_seq: agagtttgatcctggctcag, rev_name: 1391R, rev_seq: gacgggcrgtgwgtrca	30-May-2008			Atta colombica		9.15 N 79.73 W		decomposition
+uncultured bacterium	genomic DNA	refuse dump Nest 9 layer 4	taxon:77133	SIGX962_N9D4_16S_B		Panama:Gamboa, Pipeline Road		fwd_name: 27F, fwd_seq: agagtttgatcctggctcag, rev_name: 1391R, rev_seq: gacgggcrgtgwgtrca	30-May-2008			Atta colombica		9.15 N 79.73 W		decomposition
+uncultured bacterium	genomic DNA	refuse dump Nest 9 layer 4	taxon:77133	SIGX483_N9D4_16S_B		Panama:Gamboa, Pipeline Road		fwd_name: 27F, fwd_seq: agagtttgatcctggctcag, rev_name: 1391R, rev_seq: gacgggcrgtgwgtrca	30-May-2008			Atta colombica		9.15 N 79.73 W		decomposition
+uncultured proteobacterium	genomic DNA	soil	taxon:153809	soil1540												soil
+uncultured bacterium	genomic DNA	gastrointestinal tract	taxon:77133	650gg1_65021								Danio rerio				gut
+uncultured bacterium	genomic DNA	soil	taxon:77133	16S(V3+V4)-2539												soil
+uncultured bacterium	genomic DNA	Anaerobic reactor	taxon:77133	AD698												anaerobic reactor
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01DDYO0												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	II960TT01AL8DD												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01BFZLY												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01BJD1Y												animal host
+uncultured bacterium	genomic DNA	Crude oil	taxon:77133	O5		Australia: Perth										other
+uncultured bacterium	genomic DNA	garden soil	taxon:77133	garden_soil_54798												soil
+uncultured bacterium	genomic DNA	biofilm in a BES with polarity reversion	taxon:77133	MISEQ01_89_000000000-A647M_1_1106_4050_20683												other
+uncultured bacterium	genomic DNA	biofilm in a BES with polarity reversion	taxon:77133	MISEQ01_89_000000000-A647M_1_2101_28787_10876												other
+uncultured bacterium	genomic DNA	biofilm in a BES with polarity reversion	taxon:77133	MISEQ01_89_000000000-A647M_1_1102_10758_17103												other
+uncultured bacterium	genomic DNA	cathodic biofilm in a bioelectrochemical system	taxon:77133	MISEQ01_89_000000000-A647M_1_2113_17266_3923												plant
+uncultured bacterium	genomic DNA	cathodic biofilm in a bioelectrochemical system	taxon:77133	MISEQ01_89_000000000-A647M_1_2111_18312_14625												plant
+uncultured bacterium	genomic DNA	cathodic biofilm in a bioelectrochemical system	taxon:77133	MISEQ01_89_000000000-A647M_1_2117_13511_18774												plant
+uncultured bacterium	genomic DNA	cathodic biofilm in a bioelectrochemical system	taxon:77133	MISEQ01_89_000000000-A647M_1_2105_12804_16674												plant
+uncultured bacterium	genomic DNA	cathodic biofilm in a bioelectrochemical system	taxon:77133	MISEQ01_89_000000000-A647M_1_1105_5285_4049												plant
+uncultured bacterium	genomic DNA	White microbial mat form Gemini Cave, Lava Beds Natioal Monument	taxon:77133	GEM2_1683												cave, stone, coal
+uncultured bacterium	genomic DNA	rhizosphere soil	taxon:77133	OTU1143		China			Aug-2014							soil
+uncultured bacterium	genomic DNA	soil	taxon:77133	14.2G_5072		China			Aug-2013	Guixiang li				30.9581 N 115.4258 E		soil
+uncultured bacterium	genomic DNA	anaerobic full-scale reactors	taxon:77133	OTU_5573		Luxembourg			Jul-2014							anaerobic reactor
+uncultured Alphaproteobacteria bacterium	genomic DNA	Oil refinery reverse osmosis system feed water	taxon:91750	1DP2		Brazil										plant
+uncultured bacterium	genomic DNA	rhizoshere soil	taxon:77133	16S(V3-V4)-6112												soil
+uncultured bacterium	genomic DNA	lake water	taxon:77133	ELA_111314_OTU_3048		Canada: Experimental Lakes Area, Ontario		fwd_name: 341f, fwd_seq: cctacgggaggcagcag, rev_name: 806r, rev_seq: ggactachvgggtwtctaat								water
+uncultured bacterium	genomic DNA	Sludge from a labscale UASB or CSTR	taxon:77133	E507		Japan:Miyagi, Sendai		fwd_name: 341 F, fwd_seq: cctaygggrbgcascag, rev_name: 806 R, rev_seq: ggactachvgggthtctaak	2015/2016							other
+uncultured bacterium	genomic DNA	refuse dump Nest 9 layer 0	taxon:77133	SIHA.1.1068_N9D0_16S_A		Panama:Gamboa, Pipeline Road		fwd_name: 27F, fwd_seq: agagtttgatcctggctcag, rev_name: 1391R, rev_seq: gacgggcrgtgwgtrca	30-May-2008			Atta colombica		9.15 N 79.73 W		decomposition
+uncultured bacterium	genomic DNA	refuse dump Nest 9 layer 2	taxon:77133	SICT715_N9D2_16S_B		Panama:Gamboa, Pipeline Road		fwd_name: 27F, fwd_seq: agagtttgatcctggctcag, rev_name: 1391R, rev_seq: gacgggcrgtgwgtrca	30-May-2008			Atta colombica		9.15 N 79.73 W		decomposition
+uncultured bacterium	genomic DNA	refuse dump Nest 9 layer 4	taxon:77133	SIGX1406_N9D4_16S_B		Panama:Gamboa, Pipeline Road		fwd_name: 27F, fwd_seq: agagtttgatcctggctcag, rev_name: 1391R, rev_seq: gacgggcrgtgwgtrca	30-May-2008			Atta colombica		9.15 N 79.73 W		decomposition
+uncultured Blastochloris sp.	genomic DNA	soil	taxon:543027	soil395												soil
+uncultured bacterium	genomic DNA	sediments	taxon:77133	OTU3230												sediment
+uncultured bacterium	genomic DNA	soil	taxon:77133	16S(V3+V4)-2250												soil
+uncultured bacterium	genomic DNA	dry anaerobic reactor	taxon:77133	dryAD698												anaerobic reactor
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01AARPT												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01CGFYG												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	II960TT01BOKA9												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01AQGUA												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01B1MYM												animal host
+uncultured bacterium	genomic DNA		taxon:77133	PD10								Perionyx excavatus				
+uncultured bacterium	genomic DNA	Hyperalkaline springs of Voltri massif	taxon:77133	B549562_GOR34		Italy										water
+uncultured bacterium	genomic DNA	brassica rapa rhizosphere	taxon:77133	brassicarhizosphere2_19441												rhizosphere
+uncultured bacterium	genomic DNA	biofilm in a BES with polarity reversion	taxon:77133	MISEQ01_89_000000000-A647M_1_1110_18801_12915												other
+uncultured bacterium	genomic DNA	biofilm in a BES with polarity reversion	taxon:77133	MISEQ01_89_000000000-A647M_1_1110_24640_8076												other
+uncultured bacterium	genomic DNA	cathodic biofilm in a bioelectrochemical system	taxon:77133	MISEQ01_89_000000000-A647M_1_1107_15302_17443												plant
+uncultured bacterium	genomic DNA	cathodic biofilm in a bioelectrochemical system	taxon:77133	MISEQ01_89_000000000-A647M_1_1117_14258_9601												plant
+uncultured bacterium	genomic DNA	cathodic biofilm in a bioelectrochemical system	taxon:77133	MISEQ01_89_000000000-A647M_1_2102_16967_9588												plant
+uncultured bacterium	genomic DNA	cathodic biofilm in a bioelectrochemical system	taxon:77133	MISEQ01_89_000000000-A647M_1_1119_13585_6180												plant
+uncultured bacterium	genomic DNA	cathodic biofilm in a bioelectrochemical system	taxon:77133	MISEQ01_89_000000000-A647M_1_2105_27460_10116												plant
+uncultured bacterium	genomic DNA	feces	taxon:77133	GCSTWT_16S_5481								migratory passerines				gut
+uncultured bacterium	genomic DNA	contaminated groundwater aquifer	taxon:77133	New.CleanUp.ReferenceOTU11803_id23_525322		Austria			15-Mar-2014							water
+uncultured bacterium	genomic DNA	soil	taxon:77133	1.7G_88892		China			Aug-2013	Guixiang li				30.9581 N 115.4258 E		soil
+uncultured bacterium	genomic DNA	soil	taxon:77133	3163		USA: Illinois			18-Apr-2012	J.O.Dawson						soil
+uncultured bacterium	genomic DNA	rhizoshere soil	taxon:77133	16S(V3-V4)-6065												soil
+uncultured bacterium	genomic DNA	rhizosphere	taxon:77133	CA39		Oman			28-Feb-2015							rhizosphere
+uncultured bacterium	genomic DNA	Acid Mine Drainage contaminated sediments	taxon:77133	Bact_IS_OTU2264		USA: Iron Springs Mining District, CO										cave, stone, coal
+uncultured bacterium	genomic DNA	refuse dump Nest 11 layer 3	taxon:77133	SIBZ1132_N11D3_16S_B		Panama:Gamboa, Pipeline Road		fwd_name: 27F, fwd_seq: agagtttgatcctggctcag, rev_name: 1391R, rev_seq: gacgggcrgtgwgtrca	06-Jun-2008			Atta colombica		9.13 N 79.72 W		decomposition
+uncultured bacterium	genomic DNA	refuse dump Nest 9 layer 2	taxon:77133	SICT1017_N9D2_16S_B		Panama:Gamboa, Pipeline Road		fwd_name: 27F, fwd_seq: agagtttgatcctggctcag, rev_name: 1391R, rev_seq: gacgggcrgtgwgtrca	30-May-2008			Atta colombica		9.15 N 79.73 W		decomposition
+uncultured bacterium	genomic DNA	sediments	taxon:77133	OTU3972												sediment
+uncultured Blastochloris sp.	genomic DNA	soil	taxon:543027	soil2038												soil
+uncultured bacterium	genomic DNA	Mountain forest soil	taxon:77133	1354												soil
+uncultured bacterium	genomic DNA	soil	taxon:77133	16S(V3+V4)-3212												soil
+uncultured bacterium	genomic DNA	dominant plant roots in mining areas	taxon:77133	ZR1-7A5												root
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01C5XSG												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	II960TT01A69IY												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01AISHV												animal host
+uncultured bacterium	genomic DNA	earthworm cast	taxon:77133	IJ1ZXBL01BQU8O												animal host
+uncultured bacterium	genomic DNA	Hyperalkaline springs of Voltri massif	taxon:77133	B4451937_GOR34		Italy										water
+uncultured bacterium	genomic DNA	brassica rapa rhizosphere	taxon:77133	brassicarhizosphere2_7562												rhizosphere
+uncultured bacterium	genomic DNA	biofilm in a BES with polarity reversion	taxon:77133	MISEQ01_89_000000000-A647M_1_2113_14779_11540												other
+uncultured bacterium	genomic DNA	biofilm in a BES with polarity reversion	taxon:77133	MISEQ01_89_000000000-A647M_1_2104_5583_17910												other
+uncultured bacterium	genomic DNA	cathodic biofilm in a bioelectrochemical system	taxon:77133	MISEQ01_89_000000000-A647M_1_1101_19726_4544												plant
+uncultured bacterium	genomic DNA	cathodic biofilm in a bioelectrochemical system	taxon:77133	MISEQ01_89_000000000-A647M_1_1111_22431_12981												plant
+uncultured bacterium	genomic DNA	cathodic biofilm in a bioelectrochemical system	taxon:77133	MISEQ01_89_000000000-A647M_1_1102_15393_5602												plant
+uncultured bacterium	genomic DNA	cathodic biofilm in a bioelectrochemical system	taxon:77133	MISEQ01_89_000000000-A647M_1_2115_18990_1540												plant
+uncultured bacterium	genomic DNA	cathodic biofilm in a bioelectrochemical system	taxon:77133	MISEQ01_89_000000000-A647M_1_1101_26139_7904												plant
+uncultured bacterium	genomic DNA	cathodic biofilm in a bioelectrochemical system	taxon:77133	MISEQ01_89_000000000-A647M_1_1101_7657_5711												plant
+uncultured bacterium	genomic DNA	feces	taxon:77133	GCSTWT_16S_1703								migratory passerines				gut
+uncultured bacterium	genomic DNA	rhizosphere soil	taxon:77133	OTU7717		China			Sep-2014							soil
+uncultured bacterium	genomic DNA	soil	taxon:77133	2.15G_269645		China			Aug-2013	Guixiang li				30.9581 N 115.4258 E		soil
+uncultured bacterium	genomic DNA	drinking water treatment plant	taxon:77133	DWTP1.3B.E03												plant
+uncultured bacterium	genomic DNA	rhizoshere soil	taxon:77133	16S(V3-V4)-5946												soil
+uncultured bacterium	genomic DNA	rhizoshere soil	taxon:77133	16S(V3-V4)-8130												soil
+uncultured bacterium	genomic DNA	Acid Mine Drainage contaminated sediments	taxon:77133	Bact_IS_OTU2058		USA: Iron Springs Mining District, CO										cave, stone, coal
+uncultured bacterium	genomic DNA	rapid sand filter material of groundwater treatment for drinking water production	taxon:77133			Denmark	Mineral.bttm.1.6.1.4_300062									soil
+uncultured bacterium	genomic DNA	refuse dump Nest 9 layer 0	taxon:77133	SIHA.1.1394_N9D0_16S_A		Panama:Gamboa, Pipeline Road		fwd_name: 27F, fwd_seq: agagtttgatcctggctcag, rev_name: 1391R, rev_seq: gacgggcrgtgwgtrca	30-May-2008			Atta colombica		9.15 N 79.73 W		decomposition
+uncultured bacterium	genomic DNA	refuse dump Nest 9 layer 4	taxon:77133	SIGX1237_N9D4_16S_B		Panama:Gamboa, Pipeline Road		fwd_name: 27F, fwd_seq: agagtttgatcctggctcag, rev_name: 1391R, rev_seq: gacgggcrgtgwgtrca	30-May-2008			Atta colombica		9.15 N 79.73 W		decomposition
+uncultured bacterium	genomic DNA	higher termite gut	taxon:77133	OTU_915												gut
+uncultured Blastochloris sp.	genomic DNA	soil	taxon:543027	soil1920												soil
+uncultured bacterium	genomic DNA	leaf,root,soil	taxon:77133	OTU_1566		China: Hubei			2016	Zhongsai Tian, Dandan Cheng, Lin Xu		senecio vulgaris				soil
+uncultured bacterium	genomic DNA	soil	taxon:77133	16S(V3+V4)-3195												soil
+uncultured bacterium	genomic DNA	forest soil	taxon:77133	OTU_6600		New Zealand										soil
