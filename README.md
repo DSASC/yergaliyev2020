@@ -1,4 +1,5 @@
 # yergaliyev2020
+[![DOI](https://zenodo.org/badge/248777425.svg)](https://zenodo.org/badge/latestdoi/248777425)  
 This repository contains the data and analysis carried out for the publication:  
 ## The bacterial community structure dynamics in *Meloidogyne incognita* infected roots and its role in worm-microbiome interactions  
   
