@@ -5,6 +5,8 @@ This repository contains the data and analysis carried out for the publication:
   
 By:  
 **Timur Yergaliyev, Rivka Alexander-Shani, Hanna Dimeretz, Shimon Pivonia, David Bird, Shimon Rachmilevitch, Amir Szitenberg**
+
+See [preprint](https://biorxiv.org/cgi/content/short/2020.03.25.007294v1)  
   
 Data processing and diversity analyses are described in `Qiime2_MigMicroDynamics.ipynb` [nbviewer](https://nbviewer.jupyter.org/github/DSASC/yergaliyev2020/blob/master/Qiime2_MigMicroDynamics.ipynb)  
 Scripts generating figures are provided in `Figures.ipynb` [nbviewer](https://nbviewer.jupyter.org/github/DSASC/yergaliyev2020/blob/master/Figures.ipynb)  
