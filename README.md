@@ -4,7 +4,7 @@ This repository contains the data and analysis carried out for the publication:
 ## The bacterial community structure dynamics in *Meloidogyne incognita* infected roots and its role in worm-microbiome interactions  
   
 By:  
-**Timur Yergaliyev, Rivka Alexander-Shani, Hanna Dimeretz, Shimon Pivonia, David Bird, Shimon Rachmilevitch, Amir Szitenberg**
+**Timur M. Yergaliyev, Rivka Alexander-Shani, Hana Dimerets, Shimon Pivonia, David McK. Bird, Shimon Rachmilevitch, Amir Szitenberg**
 
 See [preprint](https://biorxiv.org/cgi/content/short/2020.03.25.007294v1)  
   
